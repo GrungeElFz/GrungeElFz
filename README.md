@@ -1,9 +1,23 @@
 # Hi, I'm Gee ✨
 
-#### Web Developer • Photographer • Color Grader • Digital Painter • Disc Jockey)
+#### Web Developer • Photographer • Color Grader • Digital Painter • Disc Jockey
 
 ---
 
-Legally, I'm declared as 'Sahatsawat Kerdsawad'.
+```TypeScript
+interface Name {
+  legally: {
+    firstName: string;
+    lastName: string;
+  },
+  practically?: string;
+};
 
-Practically, I'm reassigned as 'Gee'.
+const myName: Name = {
+  legally: {
+    firstName: 'Sahatsawat',
+    lastName: 'Kerdsawad'
+  },
+  practically: 'Gee'
+};
+```
