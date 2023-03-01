@@ -1,3 +1,6 @@
-### Hi there 👋
+# Hi, I'm Gee ✨
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22dcwglm3hf3ocwavusfjj6fi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22dcwglm3hf3ocwavusfjj6fi&redirect=true)
+### Digital Craftman (Web Developer • Digital Painter • Disc Jockey • Photographer • Color Grader)
+
+Legally, I'm declared as 'Sahatsawat Kerdsawad'.
+Practically, I'm reassigned as 'Gee'.
