@@ -127,16 +127,3 @@ Services
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />         
 </div>
 <br>
-
-Web3
-<div>
-  <img title="Matic" alt="Polygon icon"
-  height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" />
-  <img title="Avax" alt="Avalanche icon"
-  height="40" width="40"
-  src="https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=024" />
-  <img title="BNB" alt="Binance coin icon"
-  height="40" width="40"
-  src="https://cryptologos.cc/logos/bnb-bnb-logo.svg?v=024" />
-</div>
