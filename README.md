@@ -197,21 +197,41 @@ Browsers
 
 Designs
 <div>
-  <img title="Figma" alt="Figma icon"
-  height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img title="DaVinci Resolve" alt="DaVinci Resolve icon"
-  height="40" width="40" 
-  src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" />
-  <img title="Canva" alt="Canva icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img title="Adobe Lightroom Classic" alt="Adobe Lightroom Classic icon"
-  height="40" width="40" 
-  src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" />
-  <img title="Adobe Lightroom" alt="Adobe Lightroom icon"
-  height="40" width="40" 
-  src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
+  <a
+    href="https://www.figma.com/"
+    target="_blank">
+      <img title="Figma" alt="Figma icon"
+      height="40" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  </a>
+  <a
+    href="https://www.blackmagicdesign.com/products/davinciresolve/"
+    target="_blank">
+      <img title="DaVinci Resolve" alt="DaVinci Resolve icon"
+      height="40" width="40" 
+      src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" />
+  </a>
+  <a
+    href="https://www.canva.com/"
+    target="_blank">
+      <img title="Canva" alt="Canva icon"
+      height="40" width="40" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  </a>
+  <a
+    href="https://www.adobe.com/products/photoshop-lightroom-classic.html"
+    target="_blank">
+      <img title="Adobe Lightroom Classic" alt="Adobe Lightroom Classic icon"
+      height="40" width="40" 
+      src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" />
+  </a>
+  <a
+    href="https://lightroom.adobe.com/"
+    target="_blank">
+      <img title="Adobe Lightroom" alt="Adobe Lightroom icon"
+      height="40" width="40" 
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
+  </a>
 </div>
 <br>
 
