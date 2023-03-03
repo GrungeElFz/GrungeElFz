@@ -27,47 +27,118 @@ const myName: Name = {
 
 Languages • Libraries • Frameworks
 <div>
-  <img title="Bash" alt="Bash icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img title="Git" alt="Git icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img title="Svelte" alt="Svelte icon"
-  height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-  <img title="HTML" alt="HTML icon"
-  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img title="CSS" alt="CSS icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img title="JavaScript" alt="JavaScript icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img title="TypeScript" alt="TypeScript icon"
-  height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img title="React" alt="React icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img title="Webpack" alt="Webpack icon"
-  height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-  <img title="Vite" alt="Vite icon"
-  height="40" width="40"
-  src="https://api-frameworks.vercel.sh/framework-logos/vite.svg" />
-  <img title="ESlint" alt="ESlint icon"
-  height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-  <img title="Node.js" alt="Node.js icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img title="Sass" alt="Sass icon"
-  height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img title="NPM" alt="NPM icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <a 
+    href="https://support.apple.com/guide/terminal/welcome/mac"
+    target="_blank">
+      <img 
+        title="Bash" alt="Bash icon"
+        height="40" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  </a>
+  <a 
+    href="https://git-scm.com/about"
+    target="_blank">
+      <img 
+        title="Git" alt="Git icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
+  <a
+    href="https://svelte.dev/"
+    target="_blank">
+      <img
+        title="Svelte" alt="Svelte icon"
+        height="40" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+    target="_blank">
+      <img
+        title="HTML" alt="HTML icon"
+        height="40" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+    target="_blank">
+      <img
+        title="CSS" alt="CSS icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank">
+      <img
+        title="JavaScript" alt="JavaScript icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  </a>
+  <a
+    href="https://www.typescriptlang.org/"
+    target="_blank">
+      <img
+        title="TypeScript" alt="TypeScript icon"
+        height="40" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  </a>
+  <a
+    href="https://reactjs.org/"
+    target="_blank">
+      <img 
+        title="React" alt="React icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+  <a
+    href="https://webpack.js.org/"
+    target="_blank">
+      <img
+        title="Webpack" alt="Webpack icon"
+        height="40" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  </a>
+  <a
+    href="https://vitejs.dev/"
+    target="_blank">
+      <img
+        title="Vite" alt="Vite icon"
+        height="40" width="40"
+        src="https://api-frameworks.vercel.sh/framework-logos/vite.svg" />
+  </a>
+  <a
+    href="https://eslint.org/"
+    target="_blank">
+      <img
+        title="ESlint" alt="ESlint icon"
+        height="40" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+  </a>
+  <a
+    href="https://nodejs.org/en/about/"
+    target="_blank">
+      <img
+        title="Node.js" alt="Node.js icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a>
+  <a
+    href="https://sass-lang.com/"
+    target="_blank">
+      <img
+        title="Sass" alt="Sass icon"
+        height="40" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  </a>
+  <a
+    href="https://www.npmjs.com/"
+    target="_blank">
+      <img
+        title="NPM" alt="NPM icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  </a>
 </div>
 <br>
 
