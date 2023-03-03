@@ -21,11 +21,13 @@ const myName: Name = {
   practically: 'Gee'
 };
 ```
+
 <br>
 
 ### Tools
 
 Languages • Libraries • Frameworks
+
 <div>
   <a 
     href="https://support.apple.com/guide/terminal/welcome/mac"
@@ -143,6 +145,7 @@ Languages • Libraries • Frameworks
 <br>
 
 Browsers
+
 <div>
   <a
     href="https://developer.apple.com/safari/technology-preview/"
@@ -196,6 +199,7 @@ Browsers
 <br>
 
 Designs
+
 <div>
   <a
     href="https://www.figma.com/"
@@ -243,6 +247,7 @@ Designs
 <br>
 
 Services
+
 <div>
   <a
     href="https://www.heroku.com/"
