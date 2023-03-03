@@ -127,3 +127,11 @@ Services
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />         
 </div>
 <br>
+
+### Social Media
+
+- Linkedin
+- Twitter
+- Instagram (GrungeElFz)
+- Instagram (Artlucinogen)
+- Instagram (0x01000111)
