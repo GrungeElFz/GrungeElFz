@@ -144,24 +144,54 @@ Languages • Libraries • Frameworks
 
 Browsers
 <div>
-  <img title="Safari" alt="Safari browser icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
-  <img title="Edge" alt="Microsoft Edge browser icon"
-  height="40" width="40"
-  src="https://www.svgrepo.com/show/378791/edge.svg" />
-  <img title="Chrome" alt="Chrome browser icon"
-  height="40" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-  <img title="Opera" alt="Opera browser icon"
-  height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
-  <img title="Brave" alt="Brave browser icon"
-  height="40" width="40"
-  src="https://www.svgrepo.com/show/378778/brave.svg" />
-  <img title="Tor" alt="Tor browser icon"
-  height="40" width="40"
-  src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg" />
+  <a
+    href="https://developer.apple.com/safari/technology-preview/"
+    target="_blank">
+      <img 
+        title="Safari" alt="Safari browser icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
+  </a>
+  <a
+    href="https://www.microsoft.com/en-us/edge"
+    target="_blank">
+      <img 
+        title="Edge" alt="Microsoft Edge browser icon"
+        height="40" width="40"
+        src="https://www.svgrepo.com/show/378791/edge.svg" />
+  </a>
+  <a
+    href="https://www.google.com/chrome/dev/"
+    target="_blank">
+      <img 
+        title="Chrome" alt="Chrome browser icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+  </a>
+  <a
+    href="https://www.opera.com/"
+    target="_blank">
+      <img 
+        title="Opera" alt="Opera browser icon"
+        height="40" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
+  </a>
+  <a
+    href="https://brave.com/"
+    target="_blank">
+      <img 
+        title="Brave" alt="Brave browser icon"
+        height="40" width="40"
+        src="https://www.svgrepo.com/show/378778/brave.svg" />
+  </a>
+  <a
+    href="https://www.torproject.org/"
+    target="_blank">
+      <img 
+        title="Tor" alt="Tor browser icon"
+        height="40" width="40"
+        src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg" />
+  </a>
 </div>
 <br>
 
