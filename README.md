@@ -252,6 +252,27 @@ Services
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
   </a>
   <a
+    href="https://obsidian.md/"
+    target="_blank">
+      <img title="Obsidian" alt="Obsidian icon"
+      height="40" width="40"
+      src="https://play-lh.googleusercontent.com/McJwuNc1Gbs8-XrPCH77Ar-qZMGujN6L0_zb_jv_0oBe2vwnmIboESQjPsTSu1uINbg=w240-h480-rw" />
+  </a>
+  <a
+    href="https://www.notion.so/"
+    target="_blank">
+      <img title="Notion" alt="Notion icon"
+      height="40" width="40"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" />
+  </a>
+  <a
+    href="https://vercel.com/"
+    target="_blank">
+      <img title="Vercel" alt="Vercel icon"
+      height="40" width="40"
+      src="https://karmanivero.us/assets/images/logo-vercel.png" />
+  </a>
+  <a
     href="https://slack.com/"
     target="_blank">
       <img title="Slack" alt="Slack icon"
