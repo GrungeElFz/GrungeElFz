@@ -205,6 +205,13 @@ Designs
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </a>
   <a
+    href="https://www.sketchbook.com/"
+    target="_blank">
+      <img title="Autodesk Sketchbook" alt="Autodesk Sketchbook icon"
+      height="40" width="40" 
+      src="https://images.squarespace-cdn.com/content/v1/5fb0aea913eba3050d739796/1605414815712-1NCQFW8FON7JSSG9AWFE/sb_icon.c56b2ca.png?format=1500w" />
+  </a>
+  <a
     href="https://www.blackmagicdesign.com/products/davinciresolve/"
     target="_blank">
       <img title="DaVinci Resolve" alt="DaVinci Resolve icon"
