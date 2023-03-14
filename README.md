@@ -24,7 +24,7 @@ const myName: Name = {
 
 <br>
 
-### Tools
+## Tools
 
 Languages • Libraries • Frameworks
 
