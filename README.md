@@ -161,7 +161,7 @@ Terminal • Plugins • Extensions
       <img 
         title="Zsh" alt="Zsh icon"
         height="40" width="40"
-        src="https://agaric.coop/sites/default/files/2019-04/Terminalicon2.png" />
+        src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" />
   </a>
   <a 
     href="https://github.com/dylanaraps/neofetch"
