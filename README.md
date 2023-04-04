@@ -148,6 +148,14 @@ Terminal • Plugins • Extensions
 
 <div>
   <a 
+    href="https://fig.io/"
+    target="_blank">
+      <img 
+        title="Fig" alt="Fig icon"
+        height="40" width="40"
+        src="https://avatars.githubusercontent.com/u/68212401?s=200&v=4" />
+  </a>
+  <a 
     href="https://support.apple.com/en-us/HT208050"
     target="_blank">
       <img 
@@ -156,20 +164,12 @@ Terminal • Plugins • Extensions
         src="https://agaric.coop/sites/default/files/2019-04/Terminalicon2.png" />
   </a>
   <a 
-    href="https://www.warp.dev/"
+    href="https://github.com/dylanaraps/neofetch"
     target="_blank">
       <img 
-        title="Warp" alt="Warp Terminal icon"
+        title="Neofetch" alt="Neofetch icon"
         height="40" width="40"
-        src="https://cdn.hackernoon.com/images/k8BF5t8U11R5my0bz3n6LRmj7sN2-2x93fk2.png" />
-  </a>
-  <a 
-    href="https://starship.rs/"
-    target="_blank">
-      <img 
-        title="Starship" alt="Starship icon"
-        height="35" width="35"
-        src="https://starship.rs/icon.png" />
+        src="https://icon-library.com/images/icon-linux/icon-linux-8.jpg" />
   </a>
   <a 
     href="https://github.com/homebrew/"
@@ -180,20 +180,20 @@ Terminal • Plugins • Extensions
         src="https://avatars.githubusercontent.com/u/1503512?s=200&v=4" />
   </a>
   <a 
-    href="https://fig.io/"
+    href="https://starship.rs/"
     target="_blank">
       <img 
-        title="Fig" alt="Fig icon"
-        height="40" width="40"
-        src="https://avatars.githubusercontent.com/u/68212401?s=200&v=4" />
+        title="Starship" alt="Starship icon"
+        height="35" width="35"
+        src="https://starship.rs/icon.png" />
   </a>
   <a 
-    href="https://github.com/dylanaraps/neofetch"
+    href="https://www.warp.dev/"
     target="_blank">
       <img 
-        title="Neofetch" alt="Neofetch icon"
+        title="Warp" alt="Warp Terminal icon"
         height="40" width="40"
-        src="https://icon-library.com/images/icon-linux/icon-linux-8.jpg" />
+        src="https://cdn.hackernoon.com/images/k8BF5t8U11R5my0bz3n6LRmj7sN2-2x93fk2.png" />
   </a>
 </div>
 <br>
