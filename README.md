@@ -144,6 +144,12 @@ Languages • Libraries • Frameworks
 </div>
 <br>
 
+Terminal • Plugins • Extensions
+
+<div>
+</div>
+<br>
+
 Browsers
 
 <div>
