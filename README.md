@@ -148,14 +148,6 @@ Terminal • Plugins • Extensions
 
 <div>
   <a 
-    href="https://fig.io/"
-    target="_blank">
-      <img 
-        title="Fig" alt="Fig icon"
-        height="40" width="40"
-        src="https://avatars.githubusercontent.com/u/68212401?s=200&v=4" />
-  </a>
-  <a 
     href="https://support.apple.com/en-us/HT208050"
     target="_blank">
       <img 
