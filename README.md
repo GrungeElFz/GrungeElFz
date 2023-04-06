@@ -29,22 +29,6 @@ const myName: Name = {
 Languages • Libraries • Frameworks
 
 <div>
-  <a 
-    href="https://support.apple.com/guide/terminal/welcome/mac"
-    target="_blank">
-      <img 
-        title="Bash" alt="Bash icon"
-        height="40" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  </a>
-  <a 
-    href="https://git-scm.com/about"
-    target="_blank">
-      <img 
-        title="Git" alt="Git icon"
-        height="40" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
   <a
     href="https://svelte.dev/"
     target="_blank">
@@ -141,6 +125,14 @@ Languages • Libraries • Frameworks
         height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   </a>
+  <a
+    href="https://www.markdownguide.org/getting-started/"
+    target="_blank">
+      <img
+        title="Markdown" alt="Markdown icon"
+        height="40" width="40" 
+        src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3218313/markdown-icon-md.png" />
+  </a>
 </div>
 <br>
 
@@ -148,6 +140,14 @@ Emulators • Shell • Extensions
 
 <div>
   <a 
+    href="https://git-scm.com/about"
+    target="_blank">
+      <img 
+        title="Git" alt="Git icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
+  <a
     href="https://support.apple.com/en-us/HT208050"
     target="_blank">
       <img 
