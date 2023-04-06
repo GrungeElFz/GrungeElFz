@@ -125,6 +125,14 @@ Languages • Libraries • Frameworks
         height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   </a>
+  <a
+    href="https://www.markdownguide.org/getting-started/"
+    target="_blank">
+      <img
+        title="Markdown" alt="Markdown icon"
+        height="40" width="40" 
+        src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3218313/markdown-icon-md.png" />
+  </a>
 </div>
 <br>
 
