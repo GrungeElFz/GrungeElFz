@@ -131,7 +131,7 @@ Languages • Libraries • Frameworks
       <img
         title="Markdown" alt="Markdown icon"
         height="40" width="40" 
-        src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3218313/markdown-icon-md.png" />
+        src="https://cdn.iconscout.com/icon/free/png-512/markdown-2-458334.png?f=avif&w=256" />
   </a>
 </div>
 <br>
