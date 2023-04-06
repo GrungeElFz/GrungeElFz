@@ -144,7 +144,7 @@ Languages • Libraries • Frameworks
 </div>
 <br>
 
-Terminal • Plugins • Extensions
+Emulators • Shell • Extensions
 
 <div>
   <a 
