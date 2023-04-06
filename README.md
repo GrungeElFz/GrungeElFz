@@ -147,7 +147,7 @@ Emulators • Shell • Extensions
         height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </a>
-  <a 
+  <a
     href="https://support.apple.com/en-us/HT208050"
     target="_blank">
       <img 
