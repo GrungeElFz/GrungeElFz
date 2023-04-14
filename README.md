@@ -218,12 +218,12 @@ Browsers
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   </a>
   <a
-    href="https://www.opera.com/"
+    href="https://www.mozilla.org/en-US/firefox/developer/"
     target="_blank">
       <img 
-        title="Opera" alt="Opera browser icon"
+        title="Firefox Developer" alt="Firefox Developer browser icon"
         height="40" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Firefox_Developer_Edition_logo%2C_2019.svg/1200px-Firefox_Developer_Edition_logo%2C_2019.svg.png" />
   </a>
   <a
     href="https://brave.com/"
