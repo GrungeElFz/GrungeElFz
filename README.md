@@ -289,8 +289,24 @@ Designs
       height="40" width="40" 
       src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
   </a>
+  <a
+    href="https://www.apple.com/final-cut-pro/"
+    target="_blank">
+      <img title="Final Cut Pro X" alt="Final Cut Pro X icon"
+      height="40" width="40" 
+      src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" />
+  </a>
+  <a
+    href="https://www.apple.com/logic-pro/"
+    target="_blank">
+      <img title="Logic Pro X" alt="Logic Pro X icon"
+      height="40" width="40" 
+      src="https://help.apple.com/assets/62683745EA7EEB7F4F7E5EFF/6268374AEA7EEB7F4F7E5F3A/en_US/390711ce08c61bf054d3dc4dfb9080ae.png" />
+  </a>
 </div>
 <br>
+
+
 
 Services
 
