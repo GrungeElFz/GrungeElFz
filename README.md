@@ -241,6 +241,14 @@ Browsers
         height="40" width="40"
         src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg" />
   </a>
+  <a
+    href="https://arc.net/"
+    target="_blank">
+      <img 
+        title="Arc" alt="Arc browser icon"
+        height="40" width="40"
+        src="https://preview.redd.it/zyc0uyavfoia1.png?width=1024&format=png&auto=webp&v=enabled&s=d5049d2ab26de6a99a750c56facf96c8ee8b646f" />
+  </a>
 </div>
 <br>
 
@@ -338,13 +346,6 @@ Services
       <img title="Vercel" alt="Vercel icon"
       height="40" width="40"
       src="https://karmanivero.us/assets/images/logo-vercel.png" />
-  </a>
-  <a
-    href="https://slack.com/"
-    target="_blank">
-      <img title="Slack" alt="Slack icon"
-      height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   </a>
   <a
     href="https://cloud.google.com/"
