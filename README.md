@@ -29,22 +29,6 @@ const myName: Name = {
 Languages • Libraries • Frameworks
 
 <div>
-  <a 
-    href="https://support.apple.com/guide/terminal/welcome/mac"
-    target="_blank">
-      <img 
-        title="Bash" alt="Bash icon"
-        height="40" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  </a>
-  <a 
-    href="https://git-scm.com/about"
-    target="_blank">
-      <img 
-        title="Git" alt="Git icon"
-        height="40" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
   <a
     href="https://svelte.dev/"
     target="_blank">
@@ -141,6 +125,68 @@ Languages • Libraries • Frameworks
         height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   </a>
+  <a
+    href="https://www.markdownguide.org/getting-started/"
+    target="_blank">
+      <img
+        title="Markdown" alt="Markdown icon"
+        height="40" width="40" 
+        src="https://cdn.iconscout.com/icon/free/png-512/markdown-2-458334.png?f=avif&w=256" />
+  </a>
+</div>
+<br>
+
+Emulators • Shell • Extensions
+
+<div>
+  <a 
+    href="https://git-scm.com/about"
+    target="_blank">
+      <img 
+        title="Git" alt="Git icon"
+        height="40" width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
+  <a
+    href="https://support.apple.com/en-us/HT208050"
+    target="_blank">
+      <img 
+        title="Zsh" alt="Zsh icon"
+        height="40" width="40"
+        src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" />
+  </a>
+  <a 
+    href="https://github.com/dylanaraps/neofetch"
+    target="_blank">
+      <img 
+        title="Neofetch" alt="Neofetch icon"
+        height="40" width="40"
+        src="https://icon-library.com/images/icon-linux/icon-linux-8.jpg" />
+  </a>
+  <a 
+    href="https://github.com/homebrew/"
+    target="_blank">
+      <img 
+        title="Homebrew" alt="Homebrew icon"
+        height="40" width="40"
+        src="https://avatars.githubusercontent.com/u/1503512?s=200&v=4" />
+  </a>
+  <a 
+    href="https://starship.rs/"
+    target="_blank">
+      <img 
+        title="Starship" alt="Starship icon"
+        height="35" width="35"
+        src="https://starship.rs/icon.png" />
+  </a>
+  <a 
+    href="https://www.warp.dev/"
+    target="_blank">
+      <img 
+        title="Warp" alt="Warp Terminal icon"
+        height="40" width="40"
+        src="https://cdn.hackernoon.com/images/k8BF5t8U11R5my0bz3n6LRmj7sN2-2x93fk2.png" />
+  </a>
 </div>
 <br>
 
@@ -164,20 +210,20 @@ Browsers
         src="https://www.svgrepo.com/show/378791/edge.svg" />
   </a>
   <a
+    href="https://www.mozilla.org/en-US/firefox/developer/"
+    target="_blank">
+      <img 
+        title="Firefox Developer" alt="Firefox Developer browser icon"
+        height="40" width="40"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Firefox_Developer_Edition_logo%2C_2019.svg/1200px-Firefox_Developer_Edition_logo%2C_2019.svg.png" />
+  </a>
+  <a
     href="https://www.google.com/chrome/dev/"
     target="_blank">
       <img 
         title="Chrome" alt="Chrome browser icon"
         height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-  </a>
-  <a
-    href="https://www.opera.com/"
-    target="_blank">
-      <img 
-        title="Opera" alt="Opera browser icon"
-        height="40" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
   </a>
   <a
     href="https://brave.com/"
@@ -194,6 +240,14 @@ Browsers
         title="Tor" alt="Tor browser icon"
         height="40" width="40"
         src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg" />
+  </a>
+  <a
+    href="https://arc.net/"
+    target="_blank">
+      <img 
+        title="Arc" alt="Arc browser icon"
+        height="40" width="40"
+        src="https://preview.redd.it/zyc0uyavfoia1.png?width=1024&format=png&auto=webp&v=enabled&s=d5049d2ab26de6a99a750c56facf96c8ee8b646f" />
   </a>
 </div>
 <br>
@@ -243,8 +297,24 @@ Designs
       height="40" width="40" 
       src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
   </a>
+  <a
+    href="https://www.apple.com/final-cut-pro/"
+    target="_blank">
+      <img title="Final Cut Pro X" alt="Final Cut Pro X icon"
+      height="40" width="40" 
+      src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" />
+  </a>
+  <a
+    href="https://www.apple.com/logic-pro/"
+    target="_blank">
+      <img title="Logic Pro X" alt="Logic Pro X icon"
+      height="40" width="40" 
+      src="https://help.apple.com/assets/62683745EA7EEB7F4F7E5EFF/6268374AEA7EEB7F4F7E5F3A/en_US/390711ce08c61bf054d3dc4dfb9080ae.png" />
+  </a>
 </div>
 <br>
+
+
 
 Services
 
@@ -278,13 +348,6 @@ Services
       src="https://karmanivero.us/assets/images/logo-vercel.png" />
   </a>
   <a
-    href="https://slack.com/"
-    target="_blank">
-      <img title="Slack" alt="Slack icon"
-      height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-  </a>
-  <a
     href="https://cloud.google.com/"
     target="_blank">
       <img title="Google Cloud" alt="Google Cloud icon"
@@ -296,4 +359,10 @@ Services
 
 ## Recently played
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22dcwglm3hf3ocwavusfjj6fi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22dcwglm3hf3ocwavusfjj6fi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22dcwglm3hf3ocwavusfjj6fi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22dcwglm3hf3ocwavusfjj6fi&redirect=true)
+
+<div align="center">
+
+![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=22dcwglm3hf3ocwavusfjj6fi&width=900)
+
+</div>
