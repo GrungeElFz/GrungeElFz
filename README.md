@@ -1,6 +1,6 @@
 # Hi, I'm Gee ✨
 
-#### Web Developer • Photographer • Color Grader • Digital Painter • Disc Jockey
+#### Web Developer • Photographer • Color Grader • Digital Painter • Disc Jockey • Techno Producer
 
 ---
 
