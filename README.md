@@ -348,13 +348,6 @@ Services
       src="https://karmanivero.us/assets/images/logo-vercel.png" />
   </a>
   <a
-    href="https://slack.com/"
-    target="_blank">
-      <img title="Slack" alt="Slack icon"
-      height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-  </a>
-  <a
     href="https://cloud.google.com/"
     target="_blank">
       <img title="Google Cloud" alt="Google Cloud icon"
