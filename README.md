@@ -30,6 +30,14 @@ Languages • Libraries • Frameworks
 
 <div>
   <a
+    href="https://astro.build/"
+    target="_blank">
+      <img
+        title="Astro" alt="Astro icon"
+        height="40" width="40"
+        src="https://astro.js.org/astro.png" />
+  </a>
+  <a
     href="https://svelte.dev/"
     target="_blank">
       <img
@@ -108,6 +116,14 @@ Languages • Libraries • Frameworks
         title="Node.js" alt="Node.js icon"
         height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a>
+  <a
+    href="https://tailwindcss.com/"
+    target="_blank">
+      <img
+        title="TailwindCSS" alt="TailwindCSS icon"
+        height="40" width="40"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
   </a>
   <a
     href="https://sass-lang.com/"
