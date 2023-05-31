@@ -118,6 +118,14 @@ Languages • Libraries • Frameworks
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a>
   <a
+    href="https://tailwindcss.com/"
+    target="_blank">
+      <img
+        title="TailwindCSS" alt="TailwindCSS icon"
+        height="40" width="40"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
+  </a>
+  <a
     href="https://sass-lang.com/"
     target="_blank">
       <img
