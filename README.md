@@ -1,6 +1,6 @@
 # Hi, I'm Gee ✨
 
-#### Web Developer • Photographer • Color Grader • Digital Painter • Disc Jockey
+#### Web Developer • Photographer • Color Grader • Digital Painter • Disc Jockey • Techno Producer
 
 ---
 
@@ -29,6 +29,14 @@ const myName: Name = {
 Languages • Libraries • Frameworks
 
 <div>
+  <a
+    href="https://astro.build/"
+    target="_blank">
+      <img
+        title="Astro" alt="Astro icon"
+        height="40" width="40"
+        src="https://astro.js.org/astro.png" />
+  </a>
   <a
     href="https://svelte.dev/"
     target="_blank">
@@ -313,8 +321,6 @@ Designs
   </a>
 </div>
 <br>
-
-
 
 Services
 
