@@ -330,6 +330,8 @@ Designs
 </div>
 <br>
 
+
+
 Services
 
 <div>
@@ -377,6 +379,6 @@ Services
 
 <div align="center">
 
-![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=22dcwglm3hf3ocwavusfjj6fi&width=900)
+![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=22dcwglm3hf3ocwavusfjj6fi&unique=1&width=900)
 
 </div>
