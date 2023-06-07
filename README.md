@@ -206,64 +206,43 @@ Emulators • Shell • Extensions
 </div>
 <br>
 
-Browsers
+Services
 
 <div>
   <a
-    href="https://developer.apple.com/safari/technology-preview/"
+    href="https://www.heroku.com/"
     target="_blank">
-      <img 
-        title="Safari" alt="Safari browser icon"
-        height="40" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
+      <img title="Heroku" alt="Heroku icon"
+      height="40" width="40" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
   </a>
   <a
-    href="https://www.microsoft.com/en-us/edge"
+    href="https://obsidian.md/"
     target="_blank">
-      <img 
-        title="Edge" alt="Microsoft Edge browser icon"
-        height="40" width="40"
-        src="https://www.svgrepo.com/show/378791/edge.svg" />
+      <img title="Obsidian" alt="Obsidian icon"
+      height="40" width="40"
+      src="https://play-lh.googleusercontent.com/McJwuNc1Gbs8-XrPCH77Ar-qZMGujN6L0_zb_jv_0oBe2vwnmIboESQjPsTSu1uINbg=w240-h480-rw" />
   </a>
   <a
-    href="https://www.mozilla.org/en-US/firefox/developer/"
+    href="https://www.notion.so/"
     target="_blank">
-      <img 
-        title="Firefox Developer" alt="Firefox Developer browser icon"
-        height="40" width="40"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Firefox_Developer_Edition_logo%2C_2019.svg/1200px-Firefox_Developer_Edition_logo%2C_2019.svg.png" />
+      <img title="Notion" alt="Notion icon"
+      height="40" width="40"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" />
   </a>
   <a
-    href="https://www.google.com/chrome/dev/"
+    href="https://vercel.com/"
     target="_blank">
-      <img 
-        title="Chrome" alt="Chrome browser icon"
-        height="40" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+      <img title="Vercel" alt="Vercel icon"
+      height="40" width="40"
+      src="https://karmanivero.us/assets/images/logo-vercel.png" />
   </a>
   <a
-    href="https://brave.com/"
+    href="https://cloud.google.com/"
     target="_blank">
-      <img 
-        title="Brave" alt="Brave browser icon"
-        height="40" width="40"
-        src="https://www.svgrepo.com/show/378778/brave.svg" />
-  </a>
-  <a
-    href="https://www.torproject.org/"
-    target="_blank">
-      <img 
-        title="Tor" alt="Tor browser icon"
-        height="40" width="40"
-        src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg" />
-  </a>
-  <a
-    href="https://arc.net/"
-    target="_blank">
-      <img 
-        title="Arc" alt="Arc browser icon"
-        height="40" width="40"
-        src="https://preview.redd.it/zyc0uyavfoia1.png?width=1024&format=png&auto=webp&v=enabled&s=d5049d2ab26de6a99a750c56facf96c8ee8b646f" />
+      <img title="Google Cloud" alt="Google Cloud icon"
+      height="40" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   </a>
 </div>
 <br>
@@ -307,13 +286,6 @@ Designs
       src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" />
   </a>
   <a
-    href="https://lightroom.adobe.com/"
-    target="_blank">
-      <img title="Adobe Lightroom" alt="Adobe Lightroom icon"
-      height="40" width="40" 
-      src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
-  </a>
-  <a
     href="https://www.apple.com/final-cut-pro/"
     target="_blank">
       <img title="Final Cut Pro X" alt="Final Cut Pro X icon"
@@ -326,49 +298,6 @@ Designs
       <img title="Logic Pro X" alt="Logic Pro X icon"
       height="40" width="40" 
       src="https://help.apple.com/assets/62683745EA7EEB7F4F7E5EFF/6268374AEA7EEB7F4F7E5F3A/en_US/390711ce08c61bf054d3dc4dfb9080ae.png" />
-  </a>
-</div>
-<br>
-
-
-
-Services
-
-<div>
-  <a
-    href="https://www.heroku.com/"
-    target="_blank">
-      <img title="Heroku" alt="Heroku icon"
-      height="40" width="40" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-  </a>
-  <a
-    href="https://obsidian.md/"
-    target="_blank">
-      <img title="Obsidian" alt="Obsidian icon"
-      height="40" width="40"
-      src="https://play-lh.googleusercontent.com/McJwuNc1Gbs8-XrPCH77Ar-qZMGujN6L0_zb_jv_0oBe2vwnmIboESQjPsTSu1uINbg=w240-h480-rw" />
-  </a>
-  <a
-    href="https://www.notion.so/"
-    target="_blank">
-      <img title="Notion" alt="Notion icon"
-      height="40" width="40"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" />
-  </a>
-  <a
-    href="https://vercel.com/"
-    target="_blank">
-      <img title="Vercel" alt="Vercel icon"
-      height="40" width="40"
-      src="https://karmanivero.us/assets/images/logo-vercel.png" />
-  </a>
-  <a
-    href="https://cloud.google.com/"
-    target="_blank">
-      <img title="Google Cloud" alt="Google Cloud icon"
-      height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   </a>
 </div>
 <br>
