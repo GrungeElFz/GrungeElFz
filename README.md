@@ -286,13 +286,6 @@ Designs
       src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" />
   </a>
   <a
-    href="https://lightroom.adobe.com/"
-    target="_blank">
-      <img title="Adobe Lightroom" alt="Adobe Lightroom icon"
-      height="40" width="40" 
-      src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" />
-  </a>
-  <a
     href="https://www.apple.com/final-cut-pro/"
     target="_blank">
       <img title="Final Cut Pro X" alt="Final Cut Pro X icon"
