@@ -206,68 +206,6 @@ Emulators • Shell • Extensions
 </div>
 <br>
 
-Browsers
-
-<div>
-  <a
-    href="https://developer.apple.com/safari/technology-preview/"
-    target="_blank">
-      <img 
-        title="Safari" alt="Safari browser icon"
-        height="40" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
-  </a>
-  <a
-    href="https://www.microsoft.com/en-us/edge"
-    target="_blank">
-      <img 
-        title="Edge" alt="Microsoft Edge browser icon"
-        height="40" width="40"
-        src="https://www.svgrepo.com/show/378791/edge.svg" />
-  </a>
-  <a
-    href="https://www.mozilla.org/en-US/firefox/developer/"
-    target="_blank">
-      <img 
-        title="Firefox Developer" alt="Firefox Developer browser icon"
-        height="40" width="40"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Firefox_Developer_Edition_logo%2C_2019.svg/1200px-Firefox_Developer_Edition_logo%2C_2019.svg.png" />
-  </a>
-  <a
-    href="https://www.google.com/chrome/dev/"
-    target="_blank">
-      <img 
-        title="Chrome" alt="Chrome browser icon"
-        height="40" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-  </a>
-  <a
-    href="https://brave.com/"
-    target="_blank">
-      <img 
-        title="Brave" alt="Brave browser icon"
-        height="40" width="40"
-        src="https://www.svgrepo.com/show/378778/brave.svg" />
-  </a>
-  <a
-    href="https://www.torproject.org/"
-    target="_blank">
-      <img 
-        title="Tor" alt="Tor browser icon"
-        height="40" width="40"
-        src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg" />
-  </a>
-  <a
-    href="https://arc.net/"
-    target="_blank">
-      <img 
-        title="Arc" alt="Arc browser icon"
-        height="40" width="40"
-        src="https://preview.redd.it/zyc0uyavfoia1.png?width=1024&format=png&auto=webp&v=enabled&s=d5049d2ab26de6a99a750c56facf96c8ee8b646f" />
-  </a>
-</div>
-<br>
-
 Designs
 
 <div>
@@ -329,8 +267,6 @@ Designs
   </a>
 </div>
 <br>
-
-
 
 Services
 
