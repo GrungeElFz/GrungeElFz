@@ -110,6 +110,14 @@ Languages • Libraries • Frameworks
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
   </a>
   <a
+    href="https://nextjs.org/"
+    target="_blank">
+      <img
+        title="Next.JS" alt="Next.JS icon"
+        height="40" width="40"
+        src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
+  </a>
+  <a
     href="https://nodejs.org/en/about/"
     target="_blank">
       <img
