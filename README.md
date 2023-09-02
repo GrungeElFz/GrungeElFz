@@ -38,6 +38,14 @@ Languages • Libraries • Frameworks
         src="https://astro.js.org/astro.png" />
   </a>
   <a
+    href="https://angular.io/"
+    target="_blank">
+      <img
+        title="Angular" alt="Angular icon"
+        height="40" width="40"
+        src="https://angular.io/assets/images/logos/angular/angular.svg" />
+  </a>
+  <a
     href="https://svelte.dev/"
     target="_blank">
       <img
