@@ -15,8 +15,8 @@ interface Name {
 
 const myName: Name = {
   legally: {
-    firstName: 'Sahatsawat',
-    lastName: 'Kerdsawad'
+    firstName: 'Grunge',
+    lastName: 'Delviora'
   },
   practically: 'Gee'
 };
