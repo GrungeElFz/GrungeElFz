@@ -123,7 +123,7 @@ Languages • Libraries • Frameworks
       <img
         title="Next.JS" alt="Next.JS icon"
         height="40" width="40"
-        src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
+        src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=FFFFFF" />
   </a>
   <a
     href="https://nodejs.org/en/about/"
