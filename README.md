@@ -34,7 +34,7 @@ Languages • Libraries • Frameworks
     target="_blank">
       <img
         title="Astro" alt="Astro icon"
-        height="40" width="40"
+        height="35" width="35"
         src="https://astro.js.org/astro.png" />
   </a>
   <a
